@@ -1,0 +1,33 @@
+{
+  "userId": "5335",
+  "responses": [
+    {
+      "question": "question 1",
+      "response": {
+        "name": "response 1",
+        "score": "21"
+      },
+      "objective": "objectif 1",
+      "percentage": "75"
+    },
+    {
+      "question": "question 2",
+      "response": {
+        "name": "response 3",
+        "score": "21"
+      },
+      "objective": "objectif 2",
+      "percentage": "12"
+    }
+  ],
+  "selectedObjectives": [
+    {
+      "objective": "obj1",
+      "score": "75"
+    },
+    {
+      "objective": "obj1",
+      "score": "75"
+    }
+  ]
+}
